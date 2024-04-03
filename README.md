@@ -1,4 +1,24 @@
-# realkk.github.io
+# blog
 
-# 저의 블로그입니다.
-저의 개발이력과 취미 생활을 담고 있습니다. 
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
